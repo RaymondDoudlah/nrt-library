@@ -68,7 +68,14 @@ If you have a picture in your GitHub account you can right-click your profile im
 <b>Contributed to</b>: content edits
 </pre>
 
-
+<pre>
+<img src="https://avatars1.githubusercontent.com/u/44781904?s" style="width:100px;height:100px;" /> 
+<b>Name</b>: Raymond Doudlah
+<b>Bio</b>: Physiology PhD student at UW-Madison (<a href="https://rosenberg.neuro.wisc.edu/">Rosenberg Lab</a>)
+<b>Website</b>: <a href="https://raymond-doudlah.weebly.com">Personal website</a>
+<b>Email</b>: doudlah@wisc.com
+<b>Contributed to</b>: SQL, graph theory
+</pre>
 
 
 Add your profile card here! ☝️
